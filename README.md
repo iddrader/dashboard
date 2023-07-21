@@ -1,3 +1,5 @@
-# dashboard
+# Admin Dashboard
 
-Tried to collect everything I learned in one project (flexbox, grid). The task was done, but the webpage itself looks hideous.
+The main goal of this project was to practice flexbox and grid to make a layout of the website. The goal was pretty much achieved, everything sits in place.
+
+But I couldn't figure out what to do with the design of the site, so visually it is not the best project I've done.
